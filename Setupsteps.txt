@@ -5,3 +5,5 @@ Change directory to demo src folder
 Type command as - npm install
 After node_modules created type command as - npm start
 npm will starts in localhost:<0000> site which will give you result from visual studio code changes. 
+start write code in app.js
+Add new files as js files and refer in another js files using import-export
