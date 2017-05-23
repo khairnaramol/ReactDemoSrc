@@ -1,0 +1,6 @@
+1. Download Node.js -> downloads -> current 64 bit version for windows
+2. download Visual Studio code 
+2. goto nodeJS command prompt
+3. change directory to demo src folder 
+3. type command as - npm install
+4. after node_module created type command as - npm start  
